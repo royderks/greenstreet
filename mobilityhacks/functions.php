@@ -9,7 +9,7 @@
 
 function getRewards() {
 
-    $rewards = 'http://37.139.5.194/api/api.php/route-test?columns=rpm_score&transform=1';
+    $rewards = '[API_IP]/api/api.php/route-test?columns=rpm_score&transform=1';
     $rewards = file_get_contents($rewards);
     $rewards = json_decode($rewards, true);
 
