@@ -18,7 +18,7 @@ include_once('functions.php');
 
 <?php
 
-$rewards = 'http://37.139.5.194/api/api.php/route-test?columns=rpm_score&transform=1';
+$rewards = '[API_IP]/api/api.php/route-test?columns=rpm_score&transform=1';
 $rewards = file_get_contents($rewards);
 $rewards = json_decode($rewards, true);
 
@@ -79,7 +79,7 @@ $coordinates = file_get_contents($coordinates);
 
 </body>
 
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDxE-eJjn5ymVd6yaiUqSp8_KWwCGdPHSE&v=3.exp&amp;libraries=geometry"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=[API_KEY]&v=3.exp&amp;libraries=geometry"></script>
 <script>
     // Get the modal
 var modal = document.getElementById('myModal');
