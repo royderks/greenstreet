@@ -15,7 +15,7 @@ $file_gpx = '../data/gpxroute_berlin.json';
 $json_gpx = json_decode(file_get_contents($file_gpx), true);
 
 //API Url
-$api_url = 'http://37.139.5.194/api/api.php';
+$api_url = '[API_IP]/api/api.php';
 $api_url = $api_url . '/route-test';
 
 //Initiate cURL.
