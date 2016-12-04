@@ -45,7 +45,7 @@
 		
                 <?php
                 
-                    $vehicle = 'http://37.139.5.194/api/api.php/vehicle?transform=1';
+                    $vehicle = '[API_IP]/api/api.php/vehicle?transform=1';
                     $vehicle = file_get_contents($vehicle);                    
                     $vehicle = json_decode($vehicle, true);
                     
