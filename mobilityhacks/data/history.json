@@ -1,0 +1,1535 @@
+{
+    "AppEuropcar":
+    [
+        {
+            "timestamp": "Sat 03 Dec 2016 23:53:29",
+            "gps": "N 0 E 0",
+            "speed": "0",
+            "rpm": "1264"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:53:28",
+            "gps": "N 0 E 0",
+            "speed": "0",
+            "rpm": "1264"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:53:27",
+            "gps": "N 0 E 0",
+            "speed": "0",
+            "rpm": "1264"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:53:26",
+            "gps": "N 0 E 0",
+            "speed": "0",
+            "rpm": "1264"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:53:25",
+            "gps": "N 0 E 0",
+            "speed": "0",
+            "rpm": "1264"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:53:24",
+            "gps": "N 0 E 0",
+            "speed": "0",
+            "rpm": "1280"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:53:23",
+            "gps": "N 0 E 0",
+            "speed": "0",
+            "rpm": "1264"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:53:22",
+            "gps": "N 0 E 0",
+            "speed": "0",
+            "rpm": "1264"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:53:20",
+            "gps": "N 0 E 0",
+            "speed": "0",
+            "rpm": "1264"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:53:19",
+            "gps": "N 0 E 0",
+            "speed": "0",
+            "rpm": "1264"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:53:18",
+            "gps": "N 0 E 0",
+            "speed": "0",
+            "rpm": "1264"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:53:17",
+            "gps": "N 0 E 0",
+            "speed": "0",
+            "rpm": "1264"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:53:16",
+            "gps": "N 0 E 0",
+            "speed": "0",
+            "rpm": "4720"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:53:15",
+            "gps": "N 0 E 0",
+            "speed": "112",
+            "rpm": "5888"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:53:14",
+            "gps": "N 0 E 0",
+            "speed": "113",
+            "rpm": "5888"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:53:13",
+            "gps": "N 0 E 0",
+            "speed": "113",
+            "rpm": "5888"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:53:12",
+            "gps": "N 0 E 0",
+            "speed": "113",
+            "rpm": "5888"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:53:11",
+            "gps": "N 0 E 0",
+            "speed": "113",
+            "rpm": "5888"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:53:10",
+            "gps": "N 0 E 0",
+            "speed": "139",
+            "rpm": "5888"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:53:09",
+            "gps": "N 0 E 0",
+            "speed": "70",
+            "rpm": "3392"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:53:08",
+            "gps": "N 0 E 0",
+            "speed": "69",
+            "rpm": "2800"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:53:07",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "2816"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:53:06",
+            "gps": "N 0 E 0",
+            "speed": "102",
+            "rpm": "2800"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:53:05",
+            "gps": "N 0 E 0",
+            "speed": "102",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:53:04",
+            "gps": "N 0 E 0",
+            "speed": "103",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:53:03",
+            "gps": "N 0 E 0",
+            "speed": "103",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:53:02",
+            "gps": "N 0 E 0",
+            "speed": "103",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:53:01",
+            "gps": "N 0 E 0",
+            "speed": "103",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:53:00",
+            "gps": "N 0 E 0",
+            "speed": "103",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:59",
+            "gps": "N 0 E 0",
+            "speed": "103",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:58",
+            "gps": "N 0 E 0",
+            "speed": "103",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:57",
+            "gps": "N 0 E 0",
+            "speed": "102",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:56",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:55",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:54",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:53",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:52",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:51",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:50",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:48",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:47",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:46",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:45",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:44",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:43",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:42",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:41",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:40",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:39",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:38",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:37",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:36",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:35",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:34",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:33",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:32",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:31",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:30",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:29",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:28",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:27",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:26",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:25",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:24",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:23",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:22",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:21",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:20",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:19",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "6000"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:18",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "6016"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:17",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "4864"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:16",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "3856"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:15",
+            "gps": "N 0 E 0",
+            "speed": "67",
+            "rpm": "3856"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:14",
+            "gps": "N 0 E 0",
+            "speed": "68",
+            "rpm": "4848"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:13",
+            "gps": "N 0 E 0",
+            "speed": "71",
+            "rpm": "4848"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:12",
+            "gps": "N 0 E 0",
+            "speed": "131",
+            "rpm": "4864"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:10",
+            "gps": "N 0 E 0",
+            "speed": "131",
+            "rpm": "4848"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:09",
+            "gps": "N 0 E 0",
+            "speed": "131",
+            "rpm": "6464"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:08",
+            "gps": "N 0 E 0",
+            "speed": "132",
+            "rpm": "5184"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:07",
+            "gps": "N 0 E 0",
+            "speed": "131",
+            "rpm": "4784"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:06",
+            "gps": "N 0 E 0",
+            "speed": "132",
+            "rpm": "4800"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:05",
+            "gps": "N 0 E 0",
+            "speed": "132",
+            "rpm": "0"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:04",
+            "gps": "N 0 E 0",
+            "speed": "131",
+            "rpm": "0"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:03",
+            "gps": "N 0 E 0",
+            "speed": "131",
+            "rpm": "0"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:02",
+            "gps": "N 0 E 0",
+            "speed": "131",
+            "rpm": "0"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:01",
+            "gps": "N 0 E 0",
+            "speed": "131",
+            "rpm": "0"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:52:00",
+            "gps": "N 0 E 0",
+            "speed": "131",
+            "rpm": "0"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:59",
+            "gps": "N 0 E 0",
+            "speed": "131",
+            "rpm": "0"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:58",
+            "gps": "N 0 E 0",
+            "speed": "131",
+            "rpm": "0"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:57",
+            "gps": "N 0 E 0",
+            "speed": "131",
+            "rpm": "0"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:56",
+            "gps": "N 0 E 0",
+            "speed": "131",
+            "rpm": "0"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:55",
+            "gps": "N 0 E 0",
+            "speed": "131",
+            "rpm": "0"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:54",
+            "gps": "N 0 E 0",
+            "speed": "131",
+            "rpm": "2992"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:53",
+            "gps": "N 0 E 0",
+            "speed": "132",
+            "rpm": "2992"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:52",
+            "gps": "N 0 E 0",
+            "speed": "132",
+            "rpm": "2992"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:51",
+            "gps": "N 0 E 0",
+            "speed": "132",
+            "rpm": "6144"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:50",
+            "gps": "N 0 E 0",
+            "speed": "119",
+            "rpm": "6144"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:49",
+            "gps": "N 0 E 0",
+            "speed": "63",
+            "rpm": "6144"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:48",
+            "gps": "N 0 E 0",
+            "speed": "63",
+            "rpm": "6144"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:47",
+            "gps": "N 0 E 0",
+            "speed": "63",
+            "rpm": "6448"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:46",
+            "gps": "N 0 E 0",
+            "speed": "63",
+            "rpm": "9728"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:45",
+            "gps": "N 0 E 0",
+            "speed": "63",
+            "rpm": "9728"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:44",
+            "gps": "N 0 E 0",
+            "speed": "63",
+            "rpm": "14592"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:43",
+            "gps": "N 0 E 0",
+            "speed": "63",
+            "rpm": "14608"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:42",
+            "gps": "N 0 E 0",
+            "speed": "63",
+            "rpm": "14608"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:41",
+            "gps": "N 0 E 0",
+            "speed": "63",
+            "rpm": "14608"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:40",
+            "gps": "N 0 E 0",
+            "speed": "63",
+            "rpm": "14608"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:39",
+            "gps": "N 0 E 0",
+            "speed": "63",
+            "rpm": "14608"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:38",
+            "gps": "N 0 E 0",
+            "speed": "63",
+            "rpm": "14608"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:37",
+            "gps": "N 0 E 0",
+            "speed": "43",
+            "rpm": "14608"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:35",
+            "gps": "N 0 E 0",
+            "speed": "41",
+            "rpm": "14576"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:34",
+            "gps": "N 0 E 0",
+            "speed": "10",
+            "rpm": "14576"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:33",
+            "gps": "N 0 E 0",
+            "speed": "10",
+            "rpm": "14576"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:32",
+            "gps": "N 0 E 0",
+            "speed": "10",
+            "rpm": "14608"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:31",
+            "gps": "N 0 E 0",
+            "speed": "10",
+            "rpm": "14576"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:30",
+            "gps": "N 0 E 0",
+            "speed": "10",
+            "rpm": "14608"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:29",
+            "gps": "N 0 E 0",
+            "speed": "10",
+            "rpm": "14576"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:28",
+            "gps": "N 0 E 0",
+            "speed": "10",
+            "rpm": "14592"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:27",
+            "gps": "N 0 E 0",
+            "speed": "9",
+            "rpm": "13936"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:26",
+            "gps": "N 0 E 0",
+            "speed": "10",
+            "rpm": "12080"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:25",
+            "gps": "N 0 E 0",
+            "speed": "10",
+            "rpm": "10480"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:24",
+            "gps": "N 0 E 0",
+            "speed": "10",
+            "rpm": "10496"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:23",
+            "gps": "N 0 E 0",
+            "speed": "10",
+            "rpm": "10480"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:22",
+            "gps": "N 0 E 0",
+            "speed": "10",
+            "rpm": "10496"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:21",
+            "gps": "N 0 E 0",
+            "speed": "10",
+            "rpm": "10496"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:20",
+            "gps": "N 0 E 0",
+            "speed": "10",
+            "rpm": "10512"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:19",
+            "gps": "N 0 E 0",
+            "speed": "10",
+            "rpm": "10544"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:18",
+            "gps": "N 0 E 0",
+            "speed": "10",
+            "rpm": "10512"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:17",
+            "gps": "N 0 E 0",
+            "speed": "10",
+            "rpm": "10512"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:16",
+            "gps": "N 0 E 0",
+            "speed": "10",
+            "rpm": "10512"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:15",
+            "gps": "N 0 E 0",
+            "speed": "10",
+            "rpm": "10512"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:14",
+            "gps": "N 0 E 0",
+            "speed": "10",
+            "rpm": "10512"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:13",
+            "gps": "N 0 E 0",
+            "speed": "10",
+            "rpm": "10496"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:12",
+            "gps": "N 0 E 0",
+            "speed": "10",
+            "rpm": "9056"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:11",
+            "gps": "N 0 E 0",
+            "speed": "0",
+            "rpm": "9056"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:10",
+            "gps": "N 0 E 0",
+            "speed": "0",
+            "rpm": "9056"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:09",
+            "gps": "N 0 E 0",
+            "speed": "0",
+            "rpm": "9088"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:08",
+            "gps": "N 0 E 0",
+            "speed": "0",
+            "rpm": "9056"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:07",
+            "gps": "N 0 E 0",
+            "speed": "0",
+            "rpm": "9056"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:05",
+            "gps": "N 0 E 0",
+            "speed": "0",
+            "rpm": "9056"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:04",
+            "gps": "N 0 E 0",
+            "speed": "0",
+            "rpm": "9056"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:03",
+            "gps": "N 0 E 0",
+            "speed": "0",
+            "rpm": "9008"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:02",
+            "gps": "N 0 E 0",
+            "speed": "0",
+            "rpm": "9056"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:01",
+            "gps": "N 0 E 0",
+            "speed": "0",
+            "rpm": "7616"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:51:00",
+            "gps": "N 0 E 0",
+            "speed": "0",
+            "rpm": "6592"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:59",
+            "gps": "N 0 E 0",
+            "speed": "0",
+            "rpm": "6080"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:58",
+            "gps": "N 0 E 0",
+            "speed": "0",
+            "rpm": "6080"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:57",
+            "gps": "N 0 E 0",
+            "speed": "0",
+            "rpm": "6080"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:56",
+            "gps": "N 0 E 0",
+            "speed": "0",
+            "rpm": "6080"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:55",
+            "gps": "N 0 E 0",
+            "speed": "0",
+            "rpm": "6080"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:54",
+            "gps": "N 0 E 0",
+            "speed": "0",
+            "rpm": "6080"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:53",
+            "gps": "N 0 E 0",
+            "speed": "0",
+            "rpm": "6080"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:52",
+            "gps": "N 0 E 0",
+            "speed": "0",
+            "rpm": "6080"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:51",
+            "gps": "N 0 E 0",
+            "speed": "17",
+            "rpm": "6080"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:50",
+            "gps": "N 0 E 0",
+            "speed": "18",
+            "rpm": "6448"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:49",
+            "gps": "N 0 E 0",
+            "speed": "17",
+            "rpm": "7792"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:48",
+            "gps": "N 0 E 0",
+            "speed": "46",
+            "rpm": "7792"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:47",
+            "gps": "N 0 E 0",
+            "speed": "46",
+            "rpm": "7792"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:46",
+            "gps": "N 0 E 0",
+            "speed": "46",
+            "rpm": "9312"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:45",
+            "gps": "N 0 E 0",
+            "speed": "49",
+            "rpm": "9280"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:44",
+            "gps": "N 0 E 0",
+            "speed": "76",
+            "rpm": "9312"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:43",
+            "gps": "N 0 E 0",
+            "speed": "76",
+            "rpm": "8848"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:42",
+            "gps": "N 0 E 0",
+            "speed": "76",
+            "rpm": "8192"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:41",
+            "gps": "N 0 E 0",
+            "speed": "76",
+            "rpm": "8192"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:40",
+            "gps": "N 0 E 0",
+            "speed": "76",
+            "rpm": "8192"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:39",
+            "gps": "N 0 E 0",
+            "speed": "76",
+            "rpm": "8192"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:38",
+            "gps": "N 0 E 0",
+            "speed": "76",
+            "rpm": "8192"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:37",
+            "gps": "N 0 E 0",
+            "speed": "76",
+            "rpm": "8192"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:36",
+            "gps": "N 0 E 0",
+            "speed": "76",
+            "rpm": "8192"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:35",
+            "gps": "N 0 E 0",
+            "speed": "76",
+            "rpm": "8192"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:34",
+            "gps": "N 0 E 0",
+            "speed": "76",
+            "rpm": "8192"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:33",
+            "gps": "N 0 E 0",
+            "speed": "76",
+            "rpm": "8192"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:31",
+            "gps": "N 0 E 0",
+            "speed": "76",
+            "rpm": "8192"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:30",
+            "gps": "N 0 E 0",
+            "speed": "76",
+            "rpm": "8192"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:29",
+            "gps": "N 0 E 0",
+            "speed": "76",
+            "rpm": "8192"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:28",
+            "gps": "N 0 E 0",
+            "speed": "76",
+            "rpm": "8032"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:27",
+            "gps": "N 0 E 0",
+            "speed": "76",
+            "rpm": "7728"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:26",
+            "gps": "N 0 E 0",
+            "speed": "76",
+            "rpm": "6464"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:25",
+            "gps": "N 0 E 0",
+            "speed": "76",
+            "rpm": "5520"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:24",
+            "gps": "N 0 E 0",
+            "speed": "89",
+            "rpm": "5520"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:23",
+            "gps": "N 0 E 0",
+            "speed": "89",
+            "rpm": "5520"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:22",
+            "gps": "N 0 E 0",
+            "speed": "89",
+            "rpm": "5520"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:21",
+            "gps": "N 0 E 0",
+            "speed": "89",
+            "rpm": "5520"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:20",
+            "gps": "N 0 E 0",
+            "speed": "89",
+            "rpm": "5520"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:19",
+            "gps": "N 0 E 0",
+            "speed": "89",
+            "rpm": "5520"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:18",
+            "gps": "N 0 E 0",
+            "speed": "89",
+            "rpm": "5520"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:17",
+            "gps": "N 0 E 0",
+            "speed": "89",
+            "rpm": "5520"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:16",
+            "gps": "N 0 E 0",
+            "speed": "89",
+            "rpm": "5520"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:15",
+            "gps": "N 0 E 0",
+            "speed": "89",
+            "rpm": "5520"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:14",
+            "gps": "N 0 E 0",
+            "speed": "89",
+            "rpm": "5520"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:13",
+            "gps": "N 0 E 0",
+            "speed": "89",
+            "rpm": "5520"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:12",
+            "gps": "N 0 E 0",
+            "speed": "89",
+            "rpm": "5520"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:11",
+            "gps": "N 0 E 0",
+            "speed": "89",
+            "rpm": "5520"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:10",
+            "gps": "N 0 E 0",
+            "speed": "89",
+            "rpm": "5520"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:09",
+            "gps": "N 0 E 0",
+            "speed": "89",
+            "rpm": "5568"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:08",
+            "gps": "N 0 E 0",
+            "speed": "89",
+            "rpm": "4656"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:07",
+            "gps": "N 0 E 0",
+            "speed": "89",
+            "rpm": "4208"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:06",
+            "gps": "N 0 E 0",
+            "speed": "89",
+            "rpm": "4192"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:05",
+            "gps": "N 0 E 0",
+            "speed": "95",
+            "rpm": "4192"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:04",
+            "gps": "N 0 E 0",
+            "speed": "95",
+            "rpm": "4192"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:03",
+            "gps": "N 0 E 0",
+            "speed": "123",
+            "rpm": "4192"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:02",
+            "gps": "N 0 E 0",
+            "speed": "123",
+            "rpm": "4192"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:01",
+            "gps": "N 0 E 0",
+            "speed": "123",
+            "rpm": "4192"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:50:00",
+            "gps": "N 0 E 0",
+            "speed": "123",
+            "rpm": "4192"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:59",
+            "gps": "N 0 E 0",
+            "speed": "123",
+            "rpm": "5360"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:58",
+            "gps": "N 0 E 0",
+            "speed": "133",
+            "rpm": "5360"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:57",
+            "gps": "N 0 E 0",
+            "speed": "143",
+            "rpm": "5360"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:56",
+            "gps": "N 0 E 0",
+            "speed": "143",
+            "rpm": "5392"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:55",
+            "gps": "N 0 E 0",
+            "speed": "143",
+            "rpm": "7280"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:54",
+            "gps": "N 0 E 0",
+            "speed": "143",
+            "rpm": "7792"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:53",
+            "gps": "N 0 E 0",
+            "speed": "143",
+            "rpm": "7792"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:52",
+            "gps": "N 0 E 0",
+            "speed": "143",
+            "rpm": "7792"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:51",
+            "gps": "N 0 E 0",
+            "speed": "143",
+            "rpm": "7792"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:50",
+            "gps": "N 0 E 0",
+            "speed": "143",
+            "rpm": "7792"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:48",
+            "gps": "N 0 E 0",
+            "speed": "143",
+            "rpm": "7792"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:47",
+            "gps": "N 0 E 0",
+            "speed": "134",
+            "rpm": "7792"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:46",
+            "gps": "N 0 E 0",
+            "speed": "134",
+            "rpm": "7792"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:45",
+            "gps": "N 0 E 0",
+            "speed": "134",
+            "rpm": "7152"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:44",
+            "gps": "N 0 E 0",
+            "speed": "134",
+            "rpm": "7152"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:43",
+            "gps": "N 0 E 0",
+            "speed": "134",
+            "rpm": "7152"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:42",
+            "gps": "N 0 E 0",
+            "speed": "134",
+            "rpm": "7136"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:41",
+            "gps": "N 0 E 0",
+            "speed": "134",
+            "rpm": "7152"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:40",
+            "gps": "N 0 E 0",
+            "speed": "134",
+            "rpm": "7152"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:39",
+            "gps": "N 0 E 0",
+            "speed": "134",
+            "rpm": "7136"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:38",
+            "gps": "N 0 E 0",
+            "speed": "134",
+            "rpm": "7152"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:37",
+            "gps": "N 0 E 0",
+            "speed": "134",
+            "rpm": "7136"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:36",
+            "gps": "N 0 E 0",
+            "speed": "134",
+            "rpm": "6144"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:35",
+            "gps": "N 0 E 0",
+            "speed": "134",
+            "rpm": "6144"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:34",
+            "gps": "N 0 E 0",
+            "speed": "119",
+            "rpm": "6144"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:33",
+            "gps": "N 0 E 0",
+            "speed": "119",
+            "rpm": "5264"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:32",
+            "gps": "N 0 E 0",
+            "speed": "119",
+            "rpm": "5248"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:31",
+            "gps": "N 0 E 0",
+            "speed": "119",
+            "rpm": "5232"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:30",
+            "gps": "N 0 E 0",
+            "speed": "119",
+            "rpm": "5248"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:29",
+            "gps": "N 0 E 0",
+            "speed": "119",
+            "rpm": "4912"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:28",
+            "gps": "N 0 E 0",
+            "speed": "119",
+            "rpm": "3680"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:27",
+            "gps": "N 0 E 0",
+            "speed": "104",
+            "rpm": "3680"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:26",
+            "gps": "N 0 E 0",
+            "speed": "104",
+            "rpm": "3680"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:25",
+            "gps": "N 0 E 0",
+            "speed": "104",
+            "rpm": "3664"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:24",
+            "gps": "N 0 E 0",
+            "speed": "104",
+            "rpm": "3680"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:23",
+            "gps": "N 0 E 0",
+            "speed": "104",
+            "rpm": "3680"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:22",
+            "gps": "N 0 E 0",
+            "speed": "104",
+            "rpm": "3696"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:21",
+            "gps": "N 0 E 0",
+            "speed": "104",
+            "rpm": "2320"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:20",
+            "gps": "N 0 E 0",
+            "speed": "115",
+            "rpm": "2336"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:19",
+            "gps": "N 0 E 0",
+            "speed": "89",
+            "rpm": "2336"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:18",
+            "gps": "N 0 E 0",
+            "speed": "89",
+            "rpm": "2336"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:17",
+            "gps": "N 0 E 0",
+            "speed": "89",
+            "rpm": "2336"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:16",
+            "gps": "N 0 E 0",
+            "speed": "89",
+            "rpm": "2336"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:15",
+            "gps": "N 0 E 0",
+            "speed": "89",
+            "rpm": "2320"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:14",
+            "gps": "N 0 E 0",
+            "speed": "89",
+            "rpm": "2320"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:12",
+            "gps": "N 0 E 0",
+            "speed": "90",
+            "rpm": "1424"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:11",
+            "gps": "N 0 E 0",
+            "speed": "90",
+            "rpm": "1408"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:10",
+            "gps": "N 0 E 0",
+            "speed": "66",
+            "rpm": "1408"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:09",
+            "gps": "N 0 E 0",
+            "speed": "66",
+            "rpm": "1408"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:08",
+            "gps": "N 0 E 0",
+            "speed": "66",
+            "rpm": "1408"
+        },
+        {
+            "timestamp": "Sat 03 Dec 2016 23:49:07",
+            "gps": "N 0 E 0",
+            "speed": "66",
+            "rpm": "1408"
+        }
+    ]
+}

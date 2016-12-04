@@ -1,0 +1,325 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 4, 2016, 7:31:01 AM
+    Author     : royderks
+*/ 
+
+@import url(http://fonts.googleapis.com/css?family=Montserrat);
+
+html, body {
+
+    font-family: montserrat, arial, verdana;
+    
+    background: linear-gradient(powderblue,aliceblue);
+    
+    height: 100%;
+
+    margin: 0px;
+
+    padding: 0px;
+  
+    overflow: hidden;
+	
+}           
+                
+
+.header {
+
+    height: 10%;
+    
+    background: #090;
+    
+    width: 100%;                    
+    
+}
+
+
+.header .center {
+
+    width: 40%;
+                    
+    height: 100%;
+    
+    margin: 0 auto;
+    
+    display: flex;
+    
+    align-items: center;
+    
+    justify-content: center;
+    
+}
+
+.header .center h1 {
+
+    font-size: 48px;
+    
+    padding: 0;
+    
+    margin: 0;
+    
+    color: whitesmoke;
+    
+}
+                
+
+.map {
+
+    height: 80%;
+    
+}
+                
+
+.topcorner {
+
+    position:absolute;
+    
+    top:10px;
+    
+    right: 10px;
+    
+}
+                 
+
+.topcorner .box {
+
+    color: #404040;
+    
+    width: 120px;
+    
+    height: 45px;
+    
+    border-radius: 8px;
+    
+    background: #f8f8f8;
+    
+    background-image: url(images/leaf.png);
+    
+    background-repeat: no-repeat;
+    
+    background-position: left 8px center;
+    
+    background-size: 30px 30px;
+    
+    padding-left: 40px;
+    
+    background-color: white;
+    
+}
+                 
+
+.topcorner .box span {
+
+    font-size: 26px;
+    
+    padding: 8px;
+    
+    position: absolute;
+    
+    line-height: inherit;
+    
+}
+                
+
+.footer {
+
+    height: 10%;
+    
+    background: #040;
+    
+    width: 100%; 
+    
+    position: absolute;
+    
+    bottom: 0;
+    
+    color: #FFF;
+    
+}
+
+.footer img {
+
+    height: 45px;
+   
+    padding: 10px;
+    
+}
+
+.form {
+    width: 400px;
+    margin: 50px auto;
+    text-align: center;
+    position: relative;
+}
+.form fieldset {
+    background: white;
+    border: 0 none;
+    border-radius: 8px;
+    padding: 30px;
+}
+
+.form fieldset:not(:first-of-type) {
+    display: none;
+}
+
+.form input, .form textarea {
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    width: 100%;
+    color: #404040;
+}
+
+.form .action-button {
+    width: 100px;
+    background: #090;
+    font-weight: bold;
+    color: white;
+    border: 0 none;
+    border-radius: 8px;
+    cursor: pointer;
+    padding: 10px 5px;
+    margin: 10px 5px;
+}
+
+
+.h2 {
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #404040;
+    line-height: 20px;
+}
+.h3 {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+#progressbar {
+    
+    width: 100%;
+    
+    padding: 0;
+
+    margin-bottom: 30px;
+
+    overflow: hidden;
+
+    counter-reset: step;
+}
+#progressbar li {
+	list-style-type: none;
+	color: white;
+	text-transform: uppercase;
+	font-size: 9px;
+	width: 50%;
+	float: left;
+	position: relative;
+}
+#progressbar li:before {
+	content: counter(step);
+	counter-increment: step;
+	width: 20px;
+	line-height: 20px;
+	display: block;
+	font-size: 10px;
+	color: #333;
+	background: white;
+	border-radius: 3px;
+	margin: 0 auto 5px auto;
+}
+
+#progressbar li:after {
+	content: '';
+	width: 100%;
+	height: 2px;
+	background: white;
+	position: absolute;
+	left: -50%;
+	top: 9px;
+	z-index: -1;
+}
+#progressbar li:first-child:after {
+	content: none; 
+}
+
+#progressbar li.active:before,  #progressbar li.active:after{
+	background: #404040;
+	color: white;
+}
+
+.select-car {
+    cursor: pointer;
+    padding: 10px 0;
+    border-radius: 8px;
+}
+.select-car img {
+    width: 60%;
+}
+.select-car:hover {
+    box-shadow: 0 0 8px 1px rgba(0, 0, 0, 0.4);
+}
+
+.button-box {
+    width: 100%;
+    margin: 30px 0;
+}
+
+.button-box a {
+    width: 250px !important;
+    display: block;
+    text-decoration: none;
+    color: #404040;
+    margin: 0 auto !important;
+}
+
+.button-box .grey {
+    background: #CCC !important;
+    color: #404040 !important;
+}
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content/Box */
+.modal-content {
+    width: 400px;
+    margin: 50px auto;
+    text-align: center;
+    position: relative;
+    background: white;
+    border: 0 none;
+    border-radius: 8px;
+    padding: 30px;
+}
+
+/* The Close Button */
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
